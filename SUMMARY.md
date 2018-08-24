@@ -15,5 +15,5 @@
 * [MoteChat API](motechat-api.md)
 * [MoteChat and dSIM](motechat-and-dsim.md)
 * [MoteBus](motebus.md)
-* [MoteBus](motebus-1.md)
+* [MoteBus - Sync and Async Reliable Comm](motebus-1.md)
 
