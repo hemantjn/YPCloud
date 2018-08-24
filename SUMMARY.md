@@ -16,4 +16,7 @@
 * [MoteChat and dSIM](motechat-and-dsim.md)
 * [MoteBus](motebus.md)
 * [MoteBus - Sync and Async Reliable Comm](motebus-1.md)
+* [MoteBus and MoteChat](motebus-and-motechat.md)
+* [MoteMsg Enterprise](motemsg-enterprise.md)
+* [MoteMsg SaaS](motemsg-saas.md)
 
