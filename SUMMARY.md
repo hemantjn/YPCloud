@@ -11,4 +11,8 @@
 * [EI Sphere](ei-sphere.md)
 * [EI Sphere Applications](ei-sphere-applications.md)
 * [Sphere Space](sphere-space.md)
+* [MoteChat](motechat.md)
+* [MoteChat API](motechat-api.md)
+* [MoteChat and dSIM](motechat-and-dsim.md)
+* [MoteBus](motebus.md)
 
