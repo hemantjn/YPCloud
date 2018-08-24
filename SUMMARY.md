@@ -19,4 +19,12 @@
 * [MoteBus and MoteChat](motebus-and-motechat.md)
 * [MoteMsg Enterprise](motemsg-enterprise.md)
 * [MoteMsg SaaS](motemsg-saas.md)
+* [MoteMsg SaaS Triangle](motemsg-saas-triangle.md)
+* [Jujue](jujue.md)
+* [SmartScreen](smartscreen.md)
+* [@SmartScreenBot](smartscreenbot.md)
+* [YPCloud Health Care](ypcloud-health-care.md)
+* [iView Services](iview-services.md)
+* [YCJ Office SaaS](ycj-office-saas.md)
+* [YPCloud No.1 at Computex'18](ypcloud-no.1-at-computex18.md)
 
