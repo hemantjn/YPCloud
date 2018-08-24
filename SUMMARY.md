@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [YPCloud in 2018](README.md)
 
