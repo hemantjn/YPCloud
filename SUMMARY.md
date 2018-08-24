@@ -7,4 +7,8 @@
 * [Edge Intelligence](edge-intelligence.md)
 * [YPCloud Biz Group](ypcloud-biz-group.md)
 * [YPCloud Biz Service](ypcloud-biz-service.md)
+* [MoteMsgCloud](motemsgcloud-2.md)
+* [EI Sphere](ei-sphere.md)
+* [EI Sphere Applications](ei-sphere-applications.md)
+* [Sphere Space](sphere-space.md)
 
